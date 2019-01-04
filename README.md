@@ -1,4 +1,4 @@
 FWCG
 =========
 
-Calendar generator for group phase of FIFA Worldcup.
+FIFA Worldcup Calendar Generator modelled in GLPK.
